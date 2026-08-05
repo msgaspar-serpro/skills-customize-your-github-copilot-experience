@@ -1,0 +1,14 @@
+student_id,name,age,city,hours_studied,score
+1,Ana,16,recife,4,78
+2,Bruno,17,Sao Paulo,5,85
+3,Carla,,rio de janeiro,6,92
+4,Diego,17,  Recife  ,3,64
+5,Eva,15,sao paulo,2,101
+6,Felipe,16,Rio De Janeiro,7,88
+7,Gabi,16,,4,74
+8,Henrique,200,Belo Horizonte,5,81
+9,Isabela,17,belo horizonte,6,
+9,Isabela,17,belo horizonte,6,
+10,Joao,16,SALVADOR,3,59
+11,Karina,16,salvador,3,-5
+12,Lucas,16,Recife,4,78

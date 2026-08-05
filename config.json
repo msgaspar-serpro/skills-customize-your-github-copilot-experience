@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "data-cleaning-quality",
+      "title": "Data Cleaning and Quality in Python",
+      "description": "Practice cleaning messy datasets by handling missing values, duplicates, inconsistent text, and invalid numeric ranges before analysis.",
+      "path": "assignments/data-cleaning-quality",
+      "dueDate": "2026-08-12",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
