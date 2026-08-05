@@ -1,11 +1,11 @@
 
 # 📘 Assignment: Jogo da Forca em Python
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Construa um jogo da forca em Python usando strings, loops, condicionais e entrada de dados do usuário. O jogador deverá adivinhar letras para revelar uma palavra oculta antes que as tentativas acabem.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Estruturar o loop principal do jogo
 
